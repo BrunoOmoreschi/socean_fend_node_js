@@ -1,0 +1,12 @@
+//Notas de proj.
+
+//Se vc baixou isso aqui do GIT ele não vem com a pasta node_modules
+//Então rode no terminal: npm i
+//Depois disso só rodar o npm start
+
+//Local do arquivo de proj:
+// ./src
+//Lá tem os index que estamos trabalhando, pelo menos até a aula 2.
+
+//Como essa pag. tem mais de uma tela tem que instalar o react-router-dom::
+//npm i react-router-dom

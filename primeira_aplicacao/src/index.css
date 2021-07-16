@@ -11,3 +11,44 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+
+.header,
+.footer {
+  text-align: center;
+  background-color: blueviolet;
+}
+
+.footer {
+    font-size: 14px;
+}
+
+.lista {
+    display: flex;
+    justify-content: center;
+}
+
+
+.item {
+    display: inline-grid;
+    justify-items: center;
+    text-align: center;
+    background: #bac;
+    padding: 1px;
+    margin: 5px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 15px 1px #7b2525;
+}
+
+.barCode{
+  font-family: 'Libre Barcode 39 Extended Text', cursive;
+  font-size: 2vw;
+}
+
+.app{
+  text-align: center;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
