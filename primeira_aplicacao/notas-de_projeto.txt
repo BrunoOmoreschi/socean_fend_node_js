@@ -10,3 +10,9 @@
 
 //Como essa pag. tem mais de uma tela tem que instalar o react-router-dom::
 //npm i react-router-dom
+
+//Fazer projeto novo::
+//Tendo o node e o npm (ou yarn...)
+npx create-react-app my-app
+cd my-app
+npm start
